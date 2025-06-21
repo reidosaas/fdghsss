@@ -315,9 +315,14 @@ function App() {
                 </div>
               </div>
 
-              <button className="w-full bg-white border-2 border-blue-500 text-blue-600 py-3 rounded-lg font-semibold hover:bg-blue-50 hover:border-blue-600 transition-all transform hover:scale-105 shadow-lg">
+              <a 
+                href="https://pay.kiwify.com.br/zdJB72O" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="block w-full bg-white border-2 border-blue-500 text-blue-600 py-3 rounded-lg font-semibold hover:bg-blue-50 hover:border-blue-600 transition-all transform hover:scale-105 shadow-lg text-center"
+              >
                 Contratar Plano Start
-              </button>
+              </a>
             </div>
 
             {/* Professional Plan - Highlighted */}
