@@ -364,9 +364,14 @@ function App() {
                 </div>
               </div>
 
-              <button className="w-full bg-gradient-to-r from-yellow-400 to-yellow-500 text-blue-900 py-3 rounded-lg font-semibold hover:from-yellow-500 hover:to-yellow-600 transition-all shadow-lg transform hover:scale-105">
+              <a 
+                href="https://pay.kiwify.com.br/R5P9iyA" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="block w-full bg-gradient-to-r from-yellow-400 to-yellow-500 text-blue-900 py-3 rounded-lg font-semibold hover:from-yellow-500 hover:to-yellow-600 transition-all shadow-lg transform hover:scale-105 text-center"
+              >
                 Contratar Plano Profissional
-              </button>
+              </a>
             </div>
           </div>
         </div>
